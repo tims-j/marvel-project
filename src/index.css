@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Marvel:400,700');
+@import "../node_modules/flexboxgrid/css/index.css";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.root {
+	font-family: "Marvel", sans-serif;
+	background-color: #333;
+	font-size: 18px;
+}
+
